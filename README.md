@@ -1,0 +1,2 @@
+# IPROGHW
+permalink: /index.html
