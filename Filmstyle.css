@@ -1,0 +1,87 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lato|Pacifico|Righteous|Roboto+Condensed|Ubuntu');
+
+body{
+
+    padding: 0%;
+    margin: 0%;
+    font-family: "Lato";
+}
+
+
+.navbar-brand{
+
+    font-family: "Pacifico";
+    font-size: 35px;
+    color: lightcoral !important;
+}
+
+.nav-link{
+
+    font-size: 18px;
+    margin: 14px;
+    color: black !important;
+    font-family: "Roboto Condensed";
+
+}
+
+.nav-link:hover{
+color: #00E8E8 !important;
+
+}
+
+.active .nav-link{
+color: #00E8E8 !important;
+
+}
+
+.section-1 .container-fluid{
+
+background-image: url("Images/Film.jpg");
+background-size: cover;
+background-attachment: fixed;
+
+}
+
+.section-1 .heading-1{
+    margin-top: 20%;
+    margin-bottom: 4%;
+    font-family: "Righteous";
+    width:80%;
+    color: whitesmoke;
+    text-shadow: -1px 1px 0 #000,
+    1px 1px #000,
+    1px -1px #000,
+    -1px -1px #000;
+}
+.section-1 .para{
+
+    width: 80%;
+    font-family: "Ubuntu";
+    color: whitesmoke;
+    margin-bottom:7%;
+    text-shadow: -1px 1px 0 #000,
+    1px 1px #000,
+    1px -1px #000,
+    -1px -1px #000;
+}
+.section-1 .btn{
+margin-bottom: 15%;
+width:30%;
+padding: 2% 5%;
+
+}
+
+.section-2{
+
+    margin-top: 5%;
+
+}
+
+.section-2 i{
+
+    color: crimson;
+}
+.section-2 p{
+    color:rgba(0, 0,0, 0.75)
+}
