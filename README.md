@@ -1,2 +1,2 @@
-# IPROGHW
+
 permalink: /index.html
